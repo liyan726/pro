@@ -15,5 +15,7 @@ public class TestGuavaMethod {
 			
 		//TestPreconditions.ShowName(u2);
 		TestPreconditions.ShowName(u);
+		
+		TestPreconditions.ShowName(u);
 	}
 }
